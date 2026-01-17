@@ -15,3 +15,7 @@ Key mathematical tools are used:
 1. Limits: The method used to describe the behavior of a function as it approaches a certain value.
 2. Functions: Mathematical relationships that map inputs to outputs, serving as the basis for differentiation and integration.
 3. Continuity: The property of a function where there are no sudden jumps or breaks in its graph. 
+
+Calculus was independently developed in the late 17th century by two mathematicians: 
+1. Isaac Newton: An English physicist and mathematician who used calculus to describe the laws of motion and gravitation.
+2. Gottfried Wilhelm Leibniz: A German mathematician who developed much of the notation (such as \(dx\) and \(dy\)) still used today.
