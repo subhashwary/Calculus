@@ -35,3 +35,9 @@ Several authoritative learning platforms and materials are available:
 3. Recommended Textbooks: Classic and updated texts include Calculus Made Easy by Silvanus Thompson and Calculus: A Complete Introduction by Hugh Neill.
 4. Specialized Guides: Barron's AP Calculus Premium 2026 is available for students preparing for standardized exams. 
 
+1. Multivariable and Vector Calculus
+This branch extends calculus to functions of several variables, moving beyond simple curves to surfaces and higher-dimensional spaces. 
+i) Partial Derivatives & Gradients: Used to optimize neural networks through algorithms like gradient descent, which finds the minimum of a "loss function" across millions of parameters.
+ii) Multiple Integrals: Applied to calculate volumes, centers of mass, and probabilities in multidimensional data.
+iii) Vector Fields & Theorems: Concepts like Divergence and Curl, along with Stokes' Theorem and Gauss's Theorem, are the mathematical language for electromagnetism and fluid dynamics.
+
