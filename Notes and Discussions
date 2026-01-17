@@ -52,3 +52,13 @@ Often called "Ricci Calculus," this is a generalization of vector calculus that 
 i) General Relativity: Tensors are the primary tool for describing the curvature of spacetime and Einstein's field equations.
 ii) Continuum Mechanics: Used to analyze stress and strain in materials like aircraft wings or architectural beams.
 iii) Modern AI: In 2026, "tensors" are the fundamental data structures in machine learning libraries (like PyTorch and TensorFlow), representing multi-dimensional datasets like video or complex neural network weights.
+
+4. Real and Complex Analysis
+These branches provide the rigorous logical foundation for all calculus. 
+i) Real Analysis: Focuses on the precise definitions of limits, continuity, and convergence through formal proofs.
+ii) Complex Analysis: Applies calculus to functions of complex variables. It is crucial for signal processing, control theory, and quantum mechanics. 
+
+Advanced Study Resources (2026)
+i) Graduate Textbooks: Advanced Calculus of Several Variables by C.H. Edwards Jr. remains a standard for its conceptual depth.
+ii) Advanced Courses: The NPTEL Swayam platform and Coursera offer specialized modules on vector calculus and engineering applications.
+iii) Exam Preparation: For high-level engineering entrance exams, the JEE Advanced 2026 syllabus emphasizes intensive application of differential and integral calculus.
