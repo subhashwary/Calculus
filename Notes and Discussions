@@ -47,4 +47,8 @@ i) Ordinary Differential Equations (ODEs): Used to model systems that change ove
 ii) Partial Differential Equations (PDEs): Essential for describing heat distribution, wave propagation, and the Navier-Stokes equations used in weather prediction.
 iii) Dynamical Systems & Chaos: Explores the long-term behavior of complex systems, including stability, attractors, and bifurcations. In 2026, the International Conference on Differential Equations and Dynamical Systems (ICDEDS-26) in Chennai focuses on these real-world applications.
 
-
+3. Tensor Calculus
+Often called "Ricci Calculus," this is a generalization of vector calculus that allows physical laws to be expressed independently of a specific coordinate system. 
+i) General Relativity: Tensors are the primary tool for describing the curvature of spacetime and Einstein's field equations.
+ii) Continuum Mechanics: Used to analyze stress and strain in materials like aircraft wings or architectural beams.
+iii) Modern AI: In 2026, "tensors" are the fundamental data structures in machine learning libraries (like PyTorch and TensorFlow), representing multi-dimensional datasets like video or complex neural network weights.
