@@ -41,3 +41,10 @@ i) Partial Derivatives & Gradients: Used to optimize neural networks through alg
 ii) Multiple Integrals: Applied to calculate volumes, centers of mass, and probabilities in multidimensional data.
 iii) Vector Fields & Theorems: Concepts like Divergence and Curl, along with Stokes' Theorem and Gauss's Theorem, are the mathematical language for electromagnetism and fluid dynamics.
 
+2. Differential Equations and Dynamical Systems
+Advanced calculus focuses on solving equations where the unknown is a function rather than a number. 
+i) Ordinary Differential Equations (ODEs): Used to model systems that change over time, such as planetary orbits or chemical reaction rates.
+ii) Partial Differential Equations (PDEs): Essential for describing heat distribution, wave propagation, and the Navier-Stokes equations used in weather prediction.
+iii) Dynamical Systems & Chaos: Explores the long-term behavior of complex systems, including stability, attractors, and bifurcations. In 2026, the International Conference on Differential Equations and Dynamical Systems (ICDEDS-26) in Chennai focuses on these real-world applications.
+
+
